@@ -1,0 +1,12 @@
+# Ignore node modules
+node_modules/
+
+# Ignore CSS output files (optional if regenerated automatically)
+output.css
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore package lock (optional, depends on your team's workflow)
+package-lock.json
